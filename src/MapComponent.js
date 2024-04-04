@@ -15,7 +15,7 @@ const MapComponent = ({ latitude, longitude, zoomLevel }) => {
 
     return (
         <LoadScript
-            googleMapsApiKey="AIzaSyBbMXbcBHapEkViUXa2Z4re6dk4T7csnjQ" 
+            googleMapsApiKey="AIzaSyBqPUe5wfWgGNOBrNOJqwCdpcknw0tX3DQ" 
             libraries={libraries}
         >
             <GoogleMap

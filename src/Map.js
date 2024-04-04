@@ -2,8 +2,8 @@ import React from 'react'
 import MapComponent from './MapComponent';
 import { Box } from '@mui/material';
 
-const latitude = 37.7749; 
-const longitude = -122.4194;
+const latitude = 38.7749; 
+const longitude = -120.4194;
 const zoomLevel = 10;
 const Map = () => {
   return (
